@@ -2,7 +2,7 @@
 
 An API that scrapes data from MoHFW India Website, and serves the data on a JSON endpoint. The data is scraped and served in real-time.
 
-Available @ https://mohfw.covid19in.workers.dev/
+Available @ https://api.parshnt.me/covid19
 
 - Written in vanilla JS
 - Under 2ms response time.
