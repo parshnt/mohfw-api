@@ -8,4 +8,3 @@ Available @ https://mohfw.parshnt.workers.dev/
 - Under 1ms response time.
 - Real-time numbers, not cached.
 - Deployed on Cloudflare Workers
-- can serve up to 100k requests/day
